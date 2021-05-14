@@ -1,5 +1,5 @@
 # angular-agora-video-call
-This is a sample app the for agora implementation with angular
+This is a sample app for agora implementation with angular
 
 This project uses https://www.npmjs.com/package/ngx-agora-sdk-ng library
 
