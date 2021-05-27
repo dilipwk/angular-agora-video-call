@@ -1,7 +1,7 @@
 # angular-agora-video-call
 This is a sample app for agora implementation with angular
 
-# Find angular version https://github.com/dilipwk/ionic-agora-video-call
+# Find Ionic version https://github.com/dilipwk/ionic-agora-video-call
 
 
 ## Prerequisites
