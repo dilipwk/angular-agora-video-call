@@ -1,7 +1,7 @@
 # angular-agora-video-call
 This is a sample app for agora implementation with angular
 
-This project uses https://www.npmjs.com/package/ngx-agora-sdk-ng library
+# Find angular version https://github.com/dilipwk/ionic-agora-video-call
 
 
 ## Prerequisites
@@ -48,6 +48,8 @@ export class AppModule { }
 
 ------------
 Made with ❤️
+
+Email dilipwk@hasotech.com for any development related support.
 
 Allude https://github.com/ChapterII/ngx-agora-sdk-ng
 

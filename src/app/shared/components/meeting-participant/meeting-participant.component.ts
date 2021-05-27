@@ -29,7 +29,7 @@ export class MeetingParticipantComponent implements OnInit {
       };
       this.micStatus = !!value.user?.hasAudio;
       this.camStatus = !!value.user?.hasVideo;
-      if (value.user && value.user.audioTrack) {
+      if (value.user && value.user.audioTrack && value.user.hasAudio) {
         this.audioStream = value.user?.audioTrack?.getMediaStream();
       }
     }
